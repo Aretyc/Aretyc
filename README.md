@@ -1,7 +1,11 @@
-### Hi, welcome to my repository  👋
+## Hi, welcome to my repository  👋
 
 if you want to know more about me, please visit my website
 [aretyc.github.io](https://aretyc.github.io)
+
+#### 🔭 I’m currently working on:
+- arduino drum pads : [repo](https://github.com/Aretyc/arduino/tree/master/uno/drum/drum)
+
 
 
 <!--
