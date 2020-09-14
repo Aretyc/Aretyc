@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, welcome to my repository  👋
+
+if you want to know more about me, please visit my website
+[aretyc.github.io](https://aretyc.github.io)
+
 
 <!--
 **Aretyc/Aretyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
